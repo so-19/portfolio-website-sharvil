@@ -81,7 +81,7 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ Undergradutae in Computer Science with Exceptional Academic Performance
+- ✔️ Undergraduate in Computer Science with Exceptional Academic Performance
 - ✔️ Strong hands on experience and knowledge in Python,C++,Rust
 - ✔️ Good understanding of Deep Learning,Quantitative Finance
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
