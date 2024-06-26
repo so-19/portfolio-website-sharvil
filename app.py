@@ -28,8 +28,8 @@ PROJECTS = {
     "💻 Stock Trading Engine in Rust(Ongoing): ":" Implemented a Stock Trading Engine which uses a custom TCP-IP Stack and having all the core functionalities of L-3 Order Book ",
     "💻 LLM from Scratch(Ongoing): ":"Reproduced GPT-2 inspired by Andrej Karpathy",
     "💻 Operating System(Ongoing): ":"Trying to build my own operating system with Rust as the main language",
-    "💻 Algorithmic Trading Strategies: ":"Implemented Momentum Trending and Mean Reversion Trading STrategies using Backtrader",
-    "💻 Bank Management Software: ":"Made a fully Functional GUI based bank management software in Python with database as MySQL ",
+    "💻 Algorithmic Trading Strategies: ":"Implemented Momentum Trending and Mean Reversion trading stategies using Backtrader",
+    "💻 Bank Management Software: ":"Made a fully functional GUI based bank management software in Python with database as MySQL ",
 }
 
 
