@@ -95,7 +95,7 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, TensorFlow), SQL, Rust, C++
-- 📊 Skills: Financial Modelling, Corporate Strategy, Portfolio Management, Computer Vision, Valuation and Strategy
+- 📊 Skills: Financial Modelling, Corporate Strategy, Portfolio Management, Computer Vision, Valuation and Strategy,Deep Learning
 - 📚 Relevant Courses: GPU Architecture,Reinforcement Learning, Mathematical Finance, Deep Learning
 - 🗄️ Databases: MySQL,PostgreSQL
 """
